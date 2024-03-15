@@ -2,9 +2,9 @@
 
 Conjunto de scripts bash para automatizar tareas comunes en sistemas Linux, incluyendo la limpieza de archivos de capturas de pantalla y la actualización del sistema operativo. Simplifica la administración del sistema y mejora la eficiencia del usuario en entornos Linux.
 
-1. **bashlist.sh**: Este script es el principal y muestra una lista de comandos personalizados, permitiendo al usuario seleccionar una opción para ejecutar uno de los dos scripts: delsc.sh o upacl.sh.
-2. **delsc.sh**: Este script elimina todos los archivos de la carpeta "Capturas de pantalla" (para los amantes de darle sin querer al botón de screenshot constantemente).
-3. **upacl.sh**: Este script actualiza y limpia el sistema operativo Linux.
+0. **bashlist.sh**: Este script es el principal y muestra una lista de comandos personalizados, permitiendo al usuario seleccionar una opción para ejecutar uno de los dos scripts: delsc.sh o upacl.sh.
+1. **delsc.sh**: Este script elimina todos los archivos de la carpeta "Capturas de pantalla" (para los amantes de darle sin querer al botón de screenshot constantemente).
+2. **upacl.sh**: Este script actualiza y limpia el sistema operativo Linux.
 
 ## Los comandos que ejecuta el script `upacl.sh`
 
